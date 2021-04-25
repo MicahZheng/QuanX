@@ -4,6 +4,7 @@
     "UpdateTime" : "2021-04-25",
     "Author" : "micah",
     "task":[
+        "20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.js, tag=联通_签到与抽奖, enabled=true",
         
     ]
 }
