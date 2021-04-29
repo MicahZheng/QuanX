@@ -1,13 +1,13 @@
-🎧 第一项有数值就可用, server: lolico.me, port: 443, type: http, tls: false, skip-cert-verify: false
-🎧 网易音乐1, server: lolico.me, port: 443, type: http, tls: false, skip-cert-verify: false
-🎧 网易音乐2, server: aimer.one, port: 3333, type: http, tls: false, skip-cert-verify: false
-🎧 TG频道@M0NATA, server: gx3dong.top, port: 8088, type: http, tls: false, skip-cert-verify: false
-🎧 网易音乐4, server: 106.52.127.72, port: 19951, type: http, tls: false, skip-cert-verify: false
-🎧 网易音乐5, server: music.lolico.me, port: 39000, type: http, tls: false, skip-cert-verify: false
-🎧 网易音乐6, server: music.griouges.cn, port: 39000, type: http, tls: false, skip-cert-verify: false
-🎧 网易音乐7, server: block4music.poetyin.me, port: 39000, type: http, tls: false, skip-cert-verify: false
-🎧 TG群@M0NATAS, server: proxy.plusmedia.site, port: 58080, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ
-🎧 网易音乐9, server: proxy.plusmedia.site, port: 58081, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ
-🎧 网易音乐10, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m
-🎧 网易音乐11, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m
-🎧 网易音乐12, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m
+http = lolico.me:443, username=none, password=none, tls-verification=true, tag=第一项有数值就可用
+http = lolico.me:443, username=none, password=none, tls-verification=true, tag=网易音乐1
+http = aimer.one:3333, username=none, password=none, tls-verification=true, tag=网易音乐2
+http = gx3dong.top:8088, username=none, password=none, tls-verification=true, tag=TG频道@M0NATA
+http = 106.52.127.72:19951, username=none, password=none, tls-verification=true, tag=网易音乐4
+http = music.lolico.me:39000, username=none, password=none, tls-verification=true, tag=网易音乐5
+http = music.griouges.cn:39000, username=none, password=none, tls-verification=true, tag=网易音乐6
+http = block4music.poetyin.me:39000, username=none, password=none, tls-verification=true, tag=网易音乐7
+shadowsocks = proxy.plusmedia.site:58080, method=rc4-md5, password=T5ckndbLSXHQ, tag=TG群@M0NATAS
+shadowsocks = proxy.plusmedia.site:58081, method=rc4-md5, password=T5ckndbLSXHQ, tag=网易音乐9
+shadowsocks = music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, tag=网易音乐10
+shadowsocks = music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, tag=网易音乐11
+shadowsocks = music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, tag=网易音乐12
