@@ -1,8 +1,13 @@
-🎧𝐌𝐮𝐬𝐢𝐜𝟏 = http,106.52.127.72,19951
-🎧𝐌𝐮𝐬𝐢𝐜𝟐 = http,3music.poetyin.me,100
-🎧𝐌𝐮𝐬𝐢𝐜𝟑 = http,block4music.poetyin.me,39000
-🎧𝐌𝐮𝐬𝐢𝐜𝟒 = Shadowsocks,blockmusic.poetyin.me,30003,aes-128-gcm,"desperadoj.com_free_proxy_x80j"
-🎧𝐌𝐮𝐬𝐢𝐜𝟓 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
-🎧𝐌𝐮𝐬𝐢𝐜𝟔 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
-🎧𝐌𝐮𝐬𝐢𝐜𝟕 = Shadowsocks,proxy.plusmedia.site,58080,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
-🎧𝐌𝐮𝐬𝐢𝐜𝟖 = Shadowsocks,proxy.plusmedia.site,58081,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
+🎧 第一项有数值就可用, server: lolico.me, port: 443, type: http, tls: false, skip-cert-verify: false
+🎧 网易音乐1, server: lolico.me, port: 443, type: http, tls: false, skip-cert-verify: false
+🎧 网易音乐2, server: aimer.one, port: 3333, type: http, tls: false, skip-cert-verify: false
+🎧 TG频道@M0NATA, server: gx3dong.top, port: 8088, type: http, tls: false, skip-cert-verify: false
+🎧 网易音乐4, server: 106.52.127.72, port: 19951, type: http, tls: false, skip-cert-verify: false
+🎧 网易音乐5, server: music.lolico.me, port: 39000, type: http, tls: false, skip-cert-verify: false
+🎧 网易音乐6, server: music.griouges.cn, port: 39000, type: http, tls: false, skip-cert-verify: false
+🎧 网易音乐7, server: block4music.poetyin.me, port: 39000, type: http, tls: false, skip-cert-verify: false
+🎧 TG群@M0NATAS, server: proxy.plusmedia.site, port: 58080, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ
+🎧 网易音乐9, server: proxy.plusmedia.site, port: 58081, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ
+🎧 网易音乐10, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m
+🎧 网易音乐11, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m
+🎧 网易音乐12, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m
