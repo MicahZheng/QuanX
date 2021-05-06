@@ -1,8 +1,15 @@
-🎧 𝐌𝐮𝐬𝐢𝐜𝟏 = http, 106.52.127.72, 19951, tls=false
-🎧 𝐌𝐮𝐬𝐢𝐜𝟐 = http, 3music.poetyin.me, 100, tls=false
-🎧 𝐌𝐮𝐬𝐢𝐜𝟑 = http, block4music.poetyin.me, 39000, tls=false
-🎧 𝐌𝐮𝐬𝐢𝐜𝟒 = custom, blockmusic.poetyin.me, 30003, aes-128-gcm, desperadoj.com_free_proxy_x80j
-🎧 𝐌𝐮𝐬𝐢𝐜𝟓 = custom, music.desperadoj.com, 30001, aes-128-gcm, desperadoj.com_free_proxy_emx2
-🎧 𝐌𝐮𝐬𝐢𝐜𝟔 = ss, music.desperadoj.com, 30003, aes-128-gcm, desperadoj.com_free_proxy_emx2
-🎧 𝐌𝐮𝐬𝐢𝐜𝟕 = custom, proxy.plusmedia.site, 58080, rc4-md5, ieG9l1nte5eo7IBZas84jLi
-🎧 𝐌𝐮𝐬𝐢𝐜𝟖 = custom, proxy.plusmedia.site, 58081, rc4-md5, ieG9l1nte5eo7IBZas84jLi
+#推荐用配置整套用，省去自己折腾时间，配置简洁干净上手难度为0
+#https://github.com/O7Y0/Profiles/blob/master/O7Y0-Quantumult%20X.conf
+proxies:
+  - {name: 🎧 第一项有数值就可用, server: lolico.me, port: 443, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 1, server: lolico.me, port: 443, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 2, server: music.lolico.me, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 3, server: 223.112.128.66, port: 23334, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 4, server: 106.52.127.72, port: 19951, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 5, server: music.griouges.cn, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 6, server: block4music.poetyin.me, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 TG@M0NATA, server: proxy.plusmedia.site, port: 58080, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ}
+  - {name: 🎧 网易音乐 7, server: proxy.plusmedia.site, port: 58081, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ}
+  - {name: 🎧 网易音乐 8, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 🎧 网易音乐 9, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 🎧 网易音乐 10, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
