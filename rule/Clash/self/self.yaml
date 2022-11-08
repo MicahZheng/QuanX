@@ -1,0 +1,8 @@
+# NAME: self
+# AUTHOR: micah
+# REPO: https://github.com/MicahZheng/QuanX
+# UPDATED: 2022-11-08 17:10:42
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,mail.rinnai.com.cn
