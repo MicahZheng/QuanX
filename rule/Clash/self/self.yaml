@@ -6,3 +6,6 @@
 # TOTAL: 4
 payload:
   - DOMAIN-SUFFIX,mail.rinnai.com.cn
+  - IP-CIDR,47.98.34.234/32
+  - IP-CIDR,47.99.173.68/32
+  - IP-CIDR,121.43.151.132/32
