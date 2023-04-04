@@ -6,7 +6,7 @@
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 payload:
-  - DOMAIN-SUFFIX,mail.rinnai.com.cnDOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,auth0.openai.com
