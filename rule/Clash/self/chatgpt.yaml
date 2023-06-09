@@ -11,5 +11,4 @@ payload:
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,auth0.openai.com
   - DOMAIN-SUFFIX,platform.openai.com
-  - # Add ai.com
   - DOMAIN-SUFFIX,ai.com
